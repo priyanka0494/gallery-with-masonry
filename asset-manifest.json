@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gallery-with-masonry/static/css/main.c473557a.chunk.css",
+    "main.js": "/gallery-with-masonry/static/js/main.fcb80fe2.chunk.js",
+    "main.js.map": "/gallery-with-masonry/static/js/main.fcb80fe2.chunk.js.map",
+    "runtime-main.js": "/gallery-with-masonry/static/js/runtime-main.84c53b77.js",
+    "runtime-main.js.map": "/gallery-with-masonry/static/js/runtime-main.84c53b77.js.map",
+    "static/js/2.23ecd3df.chunk.js": "/gallery-with-masonry/static/js/2.23ecd3df.chunk.js",
+    "static/js/2.23ecd3df.chunk.js.map": "/gallery-with-masonry/static/js/2.23ecd3df.chunk.js.map",
+    "index.html": "/gallery-with-masonry/index.html",
+    "static/css/main.c473557a.chunk.css.map": "/gallery-with-masonry/static/css/main.c473557a.chunk.css.map",
+    "static/js/2.23ecd3df.chunk.js.LICENSE.txt": "/gallery-with-masonry/static/js/2.23ecd3df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c53b77.js",
+    "static/js/2.23ecd3df.chunk.js",
+    "static/css/main.c473557a.chunk.css",
+    "static/js/main.fcb80fe2.chunk.js"
+  ]
+}
